@@ -6,6 +6,7 @@ Created on Thu Sep 17 21:19:45 2020
 """
 
 def funcionPablo(lista):
-    salida = len(lista)
-        
+    salida = 0
+    for i in lista:
+        salida += i
     return salida
