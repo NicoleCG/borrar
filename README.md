@@ -1,3 +1,2 @@
 ﻿# borrar
-borrar mañana
-mañana es hoy
+borrar mañana 2
