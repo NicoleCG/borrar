@@ -11,6 +11,13 @@ def funcionPablo(lista):
         salida += i
     return salida
 
+
 def funcionNicole(palabra):
     
     return palabra[::-1]
+
+
+def funcion(lista):
+    
+    return max(lista)
+
