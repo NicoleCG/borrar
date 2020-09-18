@@ -10,3 +10,7 @@ def funcionPablo(lista):
     for i in lista:
         salida += i
     return salida
+
+def funcion(lista):
+    
+    return max(lista)
